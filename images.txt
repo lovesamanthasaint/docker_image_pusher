@@ -1,5 +1,5 @@
 xiaoyaliu/emby
-xiaoyaliu/alist:latest
+xiaoyaliu/alist
 ddsderdk/xiaoya-emd
 ddsderdk/xiaoya-glue
 xiaoyaliu/glue
