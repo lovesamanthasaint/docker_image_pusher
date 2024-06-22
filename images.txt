@@ -1,5 +1,8 @@
-amilys/embyserver:latest
+xiaoyaliu/emby
 xiaoyaliu/alist:latest
-xiaoya-emd
+ddsderdk/xiaoya-emd
+ddsderdk/xiaoya-glue
+xiaoyaliu/glue
+
 #支持指定架构
 --platform=linux/x86 xiaoyaliu/alist
