@@ -1,4 +1,4 @@
---platform=linux/x86 xiaoyaliu/alist
+xiaoyaliu/alist
 --platform=linux/x86 ddsderek/xiaoya-emd
 --platform=linux/x86 ddsderek/xiaoya-glue
 --platform=linux/x86 ddsderek/xiaoya-cron
