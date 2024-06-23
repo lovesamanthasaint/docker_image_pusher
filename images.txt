@@ -1,7 +1,8 @@
-#xiaoyaliu/emby
-#xiaoyaliu/alist
-#ddsderdk/xiaoya-emd
-#ddsderdk/xiaoya-glue
+xiaoyaliu/alist
+ddsderek/xiaoya-emd
+ddsderek/xiaoya-glue
+ddsderek/xiaoya-cron
+amilys/embyserver
 #dreamacro/clash
 haishanh/yacd
 #支持指定架构
