@@ -1,7 +1,7 @@
-xiaoyaliu/emby
-xiaoyaliu/alist
-ddsderdk/xiaoya-emd
-ddsderdk/xiaoya-glue
+#xiaoyaliu/emby
+#xiaoyaliu/alist
+#ddsderdk/xiaoya-emd
+#ddsderdk/xiaoya-glue
 dreamacro/clash
 #支持指定架构
---platform=linux/x86 xiaoyaliu/alist
+#--platform=linux/x86 xiaoyaliu/alist
